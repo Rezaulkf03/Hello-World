@@ -1,2 +1,2 @@
 # Hello-World
-This repository contains Python code of Regresssion Analysis of a Dataset.
+This repository contains Python code of Statistical Analysis of a Dataset.
